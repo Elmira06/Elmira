@@ -1,0 +1,28 @@
+.block1 {
+    height: 200px;
+    width: 350px;
+    content: url(https://static.wikia.nocookie.net/disney/images/f/fa/Captain-America-AOU-Render.png/revision/latest/scale-to-width-down/2000?cb=20150208173400);
+    background: linear-gradient(blue, violet);
+    display: inline-block;
+}
+.block2 {
+    height: 200px;
+    width: 350px;
+    content: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTicnYWK6fYVUhtb1hQjSFMqOxTobspk0y6bLKBhxkgCEa7RtF8IMVT1MezC864Q8kOdX0&usqp=CAU);
+    background: linear-gradient(orange, red);
+    display: inline-block;
+}
+.block3 {
+    height: 200px;
+    width: 350px;
+    background: linear-gradient(black,darkviolet);
+    content: url(https://img4.goodfon.ru/wallpaper/nbig/2/f8/marvel-marvel-comics-komiksy-superhero-supergeroi-hero-ger-2.jpg);
+    display: inline-block;
+}
+.block4 {
+    height: 200px;
+    width: 350px;
+    background: linear-gradient(red, black);
+    content: url(https://w7.pngwing.com/pngs/420/700/png-transparent-spider-man-spider-man-spider-man-thumbnail.png);
+    display: inline-block;
+}
