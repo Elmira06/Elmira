@@ -1,0 +1,8 @@
+.div1 {
+    height: 200px;
+    background: linear-gradient(plum);
+    position: relative;
+    border: 1px solid;
+    width: 400px;
+    background: linear-gradient(to right, #F6EFD2, #CEAD78);
+}
