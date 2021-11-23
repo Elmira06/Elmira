@@ -1,0 +1,81 @@
+.Div1 {
+    border: 2px solid;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    background: pink;
+    padding: 10px;
+    margin: top;
+}
+.Div2 {
+    border: 2px solid;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    background: red;
+    padding: 10px;
+    margin: top;
+}
+.Div3 {
+    border: 2px solid;
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    background: black;
+    padding: 10px;
+    margin: top;
+}
+.Div4 {
+    border: 2px solid;
+    width: 270px;
+    height: 270px ;
+    position: absolute;
+    background: orange;
+    padding: 10px;
+    margin: top;
+}
+.Div5 {
+    border: 2px solid;
+    width: 290px;
+    height: 290px;
+    position: absolute;
+    background: violet;
+    padding: 10px;
+    margin: top;
+}
+.Div6 {
+    border: 2px solid;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    background: turquoise;
+    padding: left;
+    margin: top;
+}
+.Div7 {
+    border: 2px solid;
+    width: 210px;
+    height: 210px;
+    position: absolute;
+    background: wheat;
+    padding: left;
+    margin: top;
+}
+.Div8 {
+    border: 2px solid;
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    background: yellowgreen;
+    padding: left;
+    margin: top;
+}
+.Div9 {
+    border: 2px solid;
+    width: 225px;
+    height: 225px;
+    position: absolute;
+    background: salmon;
+    padding: left;
+    margin: top;
+}
