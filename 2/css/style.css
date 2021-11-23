@@ -1,0 +1,17 @@
+h1{
+    color: indianred;
+}
+h2{
+    color: lightblue;
+}
+body{
+    background-color: khaki;
+}
+
+body{
+    background : linear-gradient (to top left, powderblue ) ;
+}
+p {
+    font-style: italic;
+    color: rgb(1, 58, 1);
+}
