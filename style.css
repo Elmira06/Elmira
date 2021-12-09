@@ -1,0 +1,34 @@
+img {
+    height: 100px;
+    width: 190px;
+    display: block;
+}
+.img1 {
+    height: 920px;
+    width: 1890px;
+    top: 150px;
+}
+h1 {
+    position: absolute;
+    top: 500px;
+    left: 200px;
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+    margin-top: auto;
+    margin-bottom: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+h2 {
+    position: absolute;
+    top: 600px;
+    left: 200px;
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+    margin-top: auto;
+    margin-bottom: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;      
+}
+h3 {
+    margin-top: 10px;
+    color: black;
+}
