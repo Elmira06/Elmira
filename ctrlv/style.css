@@ -1,0 +1,91 @@
+h1 {
+    position: absolute;
+    font-size: 15px;
+    font-family: Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    margin-top: 20px;
+    margin-left: 400px;
+}
+
+img {
+    position: absolute;
+    height: 90px;
+    width: 180px;
+    display: block;
+}
+
+.img1 {
+    position: absolute;
+    height: 780px;
+    width: 1650px;
+    top: 120px;
+}
+
+h2 {
+    position: absolute;
+    top: 300px;
+    left: 100px;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    margin-top: auto;
+    margin-bottom: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+
+h3 {
+    position: absolute;
+    top: 400px;
+    left: 100px;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    margin-top: auto;
+    margin-bottom: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;      
+}
+
+h4 {
+    position: absolute;
+    font-size: 15px;
+    font-family: Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    margin-top: 40px;
+    margin-left: 400px;     
+}
+
+h5 {
+    position: absolute;
+    font-size: 15px;
+    font-family: Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    margin-top: 20px;
+    margin-left: 900px;
+}
+
+h6 {
+    position: absolute;
+    font-size: 15px;
+    font-family: Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    margin-top: 40px;
+    margin-left: 900px; 
+}
+
+.img2 {
+    height: 100px;
+    width: 300px;
+    margin-left: 550px;
+}
+
+.img3 {
+    width: 145px;
+    height: 15px;
+    margin-top: 30px;
+    margin-left: 1150px;
+}
+
+.img4 {
+    width: 125px;
+    height: 15px;
+    margin-top: 30px;
+    margin-left: 1350px;
+}
