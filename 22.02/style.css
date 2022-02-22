@@ -1,0 +1,23 @@
+.btn_create {
+    height: 40px;
+    width: 100px;
+    background-color: bisque;
+    border-radius: 5px;
+    position: absolute;
+    top: 120px;
+    left: 0;
+    margin: auto;
+    text-align: center;
+}
+
+.container {
+    height: 500px;
+    width: 500px;
+    border: 2px solid rgb(126, 0, 199);
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
